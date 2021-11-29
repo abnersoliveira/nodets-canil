@@ -1,5 +1,5 @@
 # nodets-canil:
-Projeto no módulodo curso Node + Typescript
+Projeto no módulo do curso Node + Typescript
 
 ## Pré-requisitos globais:
 `npm i -g typescript ts-node`
