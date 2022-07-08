@@ -24,3 +24,8 @@ server.use((req, res)=> {
 });
 
 server.listen(process.env.PORT);
+
+// use port 3000 unless there exists a preconfigured port
+// var port = process.env.PORT || 3000;
+
+// server.listen(port);
